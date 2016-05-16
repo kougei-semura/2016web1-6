@@ -9,6 +9,7 @@ dt{
 }
 
 .btn{
+  font-size: 1.4em;
   -webkit-appearance: none;
   -webkit-border-radius: 0;
   margin: 5px;
