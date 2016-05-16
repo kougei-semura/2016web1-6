@@ -47,7 +47,7 @@ dt{
 }
 th{
   border: 1px solid lightblue;
-  background-color: skyblue;
+  background-color: lightblue;
   padding: 5px;
   width: 100px;
   text-align: center;
@@ -74,7 +74,7 @@ thead th, tfoot th{
 
 thead td{
   color: white;
-  background-color: lightblue;
+  background-color: skyblue;
   text-align: center;
 }
 
