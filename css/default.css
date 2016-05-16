@@ -5,8 +5,12 @@ float: left;
 }
 
 dt{
-  font-weight: bold;
+  float: left;
 }
+dd{
+  float: left;
+}
+
 
 .btn{
   font-size: 1.4em;
