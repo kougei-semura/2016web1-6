@@ -46,7 +46,7 @@ dt{
   border-collapse: collapse;
 }
 th{
-  border: 1px solid lightblue;
+  border: 1px solid skyblue;
   background-color: lightblue;
   padding: 5px;
   width: 100px;
@@ -54,7 +54,7 @@ th{
 }
 
 td{
-  border: 1px solid lightblue;
+  border: 1px solid skyblue;
   padding: 5px;
   width: 80px;
   text-align: right;
