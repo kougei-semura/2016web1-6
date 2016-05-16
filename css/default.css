@@ -42,11 +42,11 @@ dt{
 
 /*　かっこいい表 */
 #ingredient{
-  border: 2px solid lightblue;
+  border: 2px solid dodgerblue;
   border-collapse: collapse;
 }
 th{
-  border: 1px solid skyblue;
+  border: 1px solid dodgerblue;
   background-color: lightblue;
   padding: 5px;
   width: 100px;
@@ -54,7 +54,7 @@ th{
 }
 
 td{
-  border: 1px solid skyblue;
+  border: 1px solid dodgerblue;
   padding: 5px;
   width: 80px;
   text-align: right;
