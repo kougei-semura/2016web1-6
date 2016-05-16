@@ -8,6 +8,10 @@ dt{
   float: left;
 }
 
+dd{
+  float: left;
+}
+
 
 .btn{
   font-size: 1.4em;
