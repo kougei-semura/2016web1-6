@@ -40,6 +40,26 @@ dt{
   background-color: LightBlue;
 }
 
+/*　かっこいい表 */
+#ingredient{
+  border: 2px solid lightblue;
+  border-collapse: collapse;
+}
+th{
+  border: 1px solid lightblue;
+  background-color: skyblue;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+
+td{
+  border: 1px solid lightblue;
+  padding: 5px;
+  width: 80px;
+  text-align: right;
+}
+
 caption{
   padding: 5px;
 }
