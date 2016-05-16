@@ -40,6 +40,34 @@ dt{
   background-color: LightBlue;
 }
 
+caption{
+  padding: 5px;
+}
+
+#price{
+  background-color: lightyellow;
+}
+
+thread th, tfoot th{
+  background-color: white;
+}
+
+thread tf{
+  color: white;
+  background-color: lightcoral;
+  text-align: center;
+}
+
+tfoot td{
+  font-weight: bold;
+  background-color: white;
+}
+  
+  
+  
+}
+
+
 
 
 
