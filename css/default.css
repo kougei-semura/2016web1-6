@@ -48,11 +48,11 @@ caption{
   background-color: lightyellow;
 }
 
-thread th, tfoot th{
+thead th, tfoot th{
   background-color: white;
 }
 
-thread tf{
+thead tf{
   color: white;
   background-color: lightcoral;
   text-align: center;
